@@ -1,5 +1,5 @@
  body{
- 	background-image: url(https://media.istockphoto.com/photos/rain-water-drop-falling-to-the-floor-in-rainy-season-picture-id522795232?b=1&k=20&m=522795232&s=612x612&w=0&h=9nvASFC83hCJ8FqofN-EN4-r2fx1Ix4CYZHe423Wn28=);
+ 	background-image: url(https://t3.ftcdn.net/jpg/01/19/18/92/360_F_119189251_kiyixdA3xj8dcCimKuVa4e5DcuslHJPs.jpg);
  	background-repeat: no-repeat;
  	background-attachment: fixed;
  	background-position: center;
@@ -106,4 +106,29 @@
  	border-radius: 10px;
  	background-color: #B200ED;
  }
- 
+ .s9{
+    font-family: 'Roboto Slab', serif;
+    padding-left: 5%;
+    padding-bottom: 1%;
+    margin-top: 5%;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    background-image: url(https://e360.yale.edu/assets/site/CherokeePrairie_Arkansas_WilliamDarkPhotography_web.jpg);
+    background-position: center;
+ }
+ .si{
+    display: block;
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    padding: 0.4%;
+    padding-right: 80%;
+    margin-bottom: 1%;
+ }
+ .mu{
+     display: block;
+    border-radius: 5px;
+    padding: 0.4%;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    padding-right: 80%;
+    padding-bottom: 4%;
+ }
