@@ -32,7 +32,7 @@
  	font-family: 'Roboto Slab', serif;
  	padding-left: 5%;
  	padding-bottom: 6%;
- 	background-color: rgb(248, 27, 14);
+ 	background-color: rgba(248, 27, 14, 0.8);
  }
  .photo{
  	margin-right: 5%;
@@ -51,7 +51,7 @@
  	margin-top: 5%;
  	border: 1px solid rgba(0, 0, 0, 0.2);
  	border-radius: 10px;
- 	background-color: #E65100;
+ 	background-color: rgba(230, 81, 0, 0.8);
  }
 
  .s4{
@@ -69,7 +69,7 @@
  	margin-top: 5%;
  	border: 1px solid rgba(0, 0, 0, 0.2);
  	border-radius: 10px;
- 	background-color: #03C04A;
+ 	background-color: rgba(3, 192, 74, 0.8);
 
  }
  .top1{
@@ -84,7 +84,7 @@
  	padding-bottom: 8%;
  	border: 1px solid rgba(0, 0, 0, 0.2);
  	border-radius: 10px;
- 	background-color: #1E88E5;
+ 	background-color: rgba(30, 136, 229, 0.8);
  }
  .scr{
  	float: left;
@@ -96,7 +96,7 @@
  	margin-top: 5%;
  	border: 1px solid rgba(0, 0, 0, 0.2);
  	border-radius: 10px;
- 	background-color: #4B0082;
+ 	background-color: rgba(75, 0, 130, 0.8);
 
  }
  .s8{
@@ -106,7 +106,7 @@
  	margin-top: 5%;
  	border: 1px solid rgba(0, 0, 0, 0.2);
  	border-radius: 10px;
- 	background-color: #B200ED;
+ 	background-color: rgba(178, 0, 237, 0.8);
  }
  .s9{
     font-family: 'Roboto Slab', serif;
